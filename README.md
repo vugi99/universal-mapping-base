@@ -1,2 +1,2 @@
 # universal-mapping-base
-Base unreal mapping content to create mapping tools for nanos world gamemodes
+# (Wiki)[https://github.com/vugi99/universal-mapping-base/wiki]
